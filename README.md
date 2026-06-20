@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&width=600&lines=Turning+Data+into+Business+Impact+%F0%9F%9A%80;ML+%7C+Python+%7C+SQL+%7C+PowerBI+%E2%98%81%EF%B8%8F;Discovering+Patterns+Hidden+in+Data;Building+AI+Solution+that+Solve+Real+Problems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&width=600&lines=Turning+Data+into+Business+Impact+%F0%9F%9A%80;ML+%7C+Python+%7C+SQL+%7C+PowerBI+%E2%98%81%EF%B8%8F;Discovering+Patterns+Hidden+in+Data;Creating+AI+with+Real+Impact+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
