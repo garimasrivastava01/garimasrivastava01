@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Garima%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Power%20BI%20%7C%20Business%20Intelligence&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Garima%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Artificial%20Intelligence%20%7C%20Data%20Analytics%20%7C%20Machine%20Learning&descAlignY=55&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Turning+Data+into+Actionable+Insights+📊;Machine+Learning+%7C+Power+BI+%7C+SQL+🚀;Python+%7C+Analytics+%7C+Azure+☁️;Building+Data-Driven+Solutions+⚡" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&width=700&lines=Turning+Data+into+Actionable+Insights+📊;AI+Student+%7C+Machine+Learning+%7C+Analytics+🚀;Python+%7C+SQL+%7C+Power+BI+%7C+Azure+☁️;Building+AI+Powered+Solutions+⚡" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,18 +15,18 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>&nbsp;
 
-  <a href="mailto:srivastavagari0914@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/garimasrivastava01">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;
 
-  <a href="https://github.com/garimasrivastava01">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  <a href="mailto:srivastavagari0914@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
----
+<br/>
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+---
 
 ### 👩‍💻 About Me
 
