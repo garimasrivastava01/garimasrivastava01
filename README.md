@@ -12,8 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=garimasrivastava01&color=6AD3F7&style=for-the-badge&label=VISITORS" />&nbsp;
   <a href="https://www.linkedin.com/in/analystgarima"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>&nbsp;
   <a href="https://garimasrivastava01.github.io/Garima_portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-6AD3F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
-  <a href="https://medium.com"><img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" /></a>
-</div>
 
 <br/>
 
