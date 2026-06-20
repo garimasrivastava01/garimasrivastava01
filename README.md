@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Garima%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Artificial%20Intelligence%20%7C%20Data%20Analytics%20%7C%20Machine%20Learning&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Garima%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20%7C%20Gen%20AI%20%7C%20Cloud%20Analytics&descAlignY=55&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&width=700&lines=Turning+Data+into+Actionable+Insights+📊;AI+Student+%7C+Machine+Learning+%7C+Analytics+🚀;Python+%7C+SQL+%7C+Power+BI+%7C+Azure+☁️;Building+AI+Powered+Solutions+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&width=600&lines=Turning+Data+into+Business+Impact+%F0%9F%9A%80;ML+%7C+Gen+AI+%7C+Cloud+%E2%98%81%EF%B8%8F;Discovering+Patterns+Hidden+in+Data;Building+AI+Solutions+that+Solve+Real+Problems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,23 +10,16 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=garimasrivastava01&color=6AD3F7&style=for-the-badge&label=VISITORS" />&nbsp;
-
-  <a href="https://www.linkedin.com/in/garima-srivastava-9b1b56382">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>&nbsp;
-
-  <a href="https://github.com/garimasrivastava01">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;
-
-  <a href="mailto:srivastavagari0914@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/analystgarima"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>&nbsp;
+  <a href="https://garimasrivastava01.github.io/Garima_portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-6AD3F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
+  <a href="https://medium.com"><img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" /></a>
 </div>
 
 <br/>
 
 ---
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 👩‍💻 About Me
 
