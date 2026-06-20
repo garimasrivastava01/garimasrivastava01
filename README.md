@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=2500&pause=1000&color=C770F0&center=true&vCenter=true&width=850&lines=✨+Data+Driven+Insights+for+Better+Decisions;📊+Aspiring+Data+Analyst;🤖+Exploring+Machine+Learning+%26+AI;🚀+Building+Real+World+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=2500&pause=1000&color=C770F0&center=true&vCenter=true&width=850&lines=✨+Data+Driven+Insights+for+Better+Decisions;📊+Data Science & Analytics Professional;🤖+Exploring+Machine+Learning+%26+AI;🚀+Building+Real+World+Projects"/>
 
 <br><br>
 
