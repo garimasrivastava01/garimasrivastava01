@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Garima%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20%7C%20Gen%20AI%20%7C%20Cloud%20Analytics&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Garima%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Artificial%20Intelligence%20%7C%20Gen%20AI%20%7C%20Machine%20Learning&descAlignY=55&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&width=600&lines=Turning+Data+into+Business+Impact+%F0%9F%9A%80;ML+%7C+Python+%7C+SQL+%7C+PowerBI+%E2%98%81%EF%B8%8F;Discovering+Patterns+Hidden+in+Data;Building+AI+Solutions+that+Solve+Real+Problems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&width=600&lines=Turning+Data+into+Business+Impact+%F0%9F%9A%80;ML+%7C+Python+%7C+SQL+%7C+PowerBI+%E2%98%81%EF%B8%8F;Discovering+Patterns+Hidden+in+Data;Building+AI+Solutions+to+Solve+Real+Problems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
